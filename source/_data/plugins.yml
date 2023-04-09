@@ -3439,3 +3439,11 @@
     - plugin
     - hexo
     - image
+
+- name: hexo-vscode
+  description: vsocde for Hexo.
+  link: https://github.com/hexojs/hexo-vscode
+  tags:
+    - official
+    - server
+    - console
